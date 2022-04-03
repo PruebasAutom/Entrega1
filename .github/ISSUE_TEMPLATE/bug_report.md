@@ -15,7 +15,7 @@ A clear and concise description of what you expected to happen.
 
 **Pasos para Reproducir Defecto**
 Steps to reproduce the behavior:
-1. Go to '...'
+1. Ir a la aplicación Ghost en modo administrador https://localhost:2368/ghost
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
@@ -24,10 +24,10 @@ Steps to reproduce the behavior:
 If applicable, add screenshots to help explain your problem.
 
 **Contexto**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+- App version: 3.41.1
+- OS: Ubuntu 20.04
+- Browser: Firefox 98.0.2
+- Node 12.22.1
 
 **Información Adicional**
 Add any other context about the problem here.
